@@ -1,0 +1,572 @@
+[
+  {
+    "id": "paris",
+    "slug": "paris",
+    "name": "Paris",
+    "description": "Paris, capitale de la France et ville la plus peuplée de la région parisienne.",
+    "department": "75",
+    "region": "Île-de-France",
+    "climateZone": "Cfc",
+    "averageTemp": {
+      "summer": 21.5,
+      "winter": 7.5
+    },
+    "dju": 948,
+    "population": 2165423,
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Paris",
+      "subtitle": "Profitez des ensoleillement et subventions pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "lyon",
+    "slug": "lyon",
+    "name": "Lyon",
+    "description": "Lyon, troisième ville la plus peuplée de France, au cœur de la région Auvergne-Rhône-Alpes.",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 24.5,
+      "winter": 6.5
+    },
+    "dju": 996,
+    "population": 522633,
+    "coordinates": {
+      "lat": 45.7640,
+      "lng": 4.8357
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Lyon",
+      "subtitle": "Bénéficiez de l'ensoleillement auvergnat pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "marseille",
+    "slug": "marseille",
+    "name": "Marseille",
+    "description": "Marseille, deuxième ville de France, port historique sur la Méditerranée.",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "climateZone": "Csa",
+    "averageTemp": {
+      "summer": 27.5,
+      "winter": 10.5
+    },
+    "dju": 884,
+    "population": 870731,
+    "coordinates": {
+      "lat": 43.2965,
+      "lng": 5.3698
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Marseille",
+      "subtitle": "Profitez de l'ensoleillement méditerranéen pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "lille",
+    "slug": "lille",
+    "name": "Lille",
+    "description": "Lille, chef-lieu du Nord, porte de l'Europe, entre Paris et Londres.",
+    "department": "59",
+    "region": "Hauts-de-France",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 22.5,
+      "winter": 5.5
+    },
+    "dju": 1090,
+    "population": 236829,
+    "coordinates": {
+      "lat": 50.6292,
+      "lng": 3.0573
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Lille",
+      "subtitle": "Bénéficiez du potentiel solaire en Hauts-de-France",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "toulouse",
+    "slug": "toulouse",
+    "name": "Toulouse",
+    "description": "Toulouse, capitale de l'avion et de l'espace, au cœur de la région Occitanie.",
+    "department": "31",
+    "region": "Occitanie",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 26.5,
+      "winter": 8.5
+    },
+    "dju": 972,
+    "population": 498808,
+    "coordinates": {
+      "lat": 43.6047,
+      "lng": 1.4442
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Toulouse",
+      "subtitle": "Profitez de l'ensoleillement toulousain pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "nice",
+    "slug": "nice",
+    "name": "Nice",
+    "description": "Nice, perle de la Côte d'Azur, entre mer et montagnes.",
+    "department": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "climateZone": "Csa",
+    "averageTemp": {
+      "summer": 25.5,
+      "winter": 11.5
+    },
+    "dju": 872,
+    "population": 342637,
+    "coordinates": {
+      "lat": 43.7102,
+      "lng": 7.2620
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Nice",
+      "subtitle": "Bénéficiez de l'ensoleillement niçois pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "nantes",
+    "slug": "nantes",
+    "name": "Nantes",
+    "description": "Nantes, ville d'art et d'histoire, à l'Estuaire de la Loire.",
+    "department": "44",
+    "region": "Pays de la Loire",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 22.5,
+      "winter": 7.5
+    },
+    "dju": 1012,
+    "population": 320923,
+    "coordinates": {
+      "lat": 47.2184,
+      "lng": -1.5536
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Nantes",
+      "subtitle": "Profitez du potentiel solaire nantais pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "montpellier",
+    "slug": "montpellier",
+    "name": "Montpellier",
+    "description": "Montpellier, capitale de la Languedoc, entre mer et montagnes.",
+    "department": "34",
+    "region": "Occitanie",
+    "climateZone": "Csa",
+    "averageTemp": {
+      "summer": 26.5,
+      "winter": 9.5
+    },
+    "dju": 864,
+    "population": 292188,
+    "coordinates": {
+      "lat": 43.6108,
+      "lng": 3.8767
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Montpellier",
+      "subtitle": "Bénéficiez de l'ensoleillement méditerranéen pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "bordeaux",
+    "slug": "bordeaux",
+    "name": "Bordeaux",
+    "description": "Bordeaux, ville du vin et de l'eau, au cœur de l'Aquitaine.",
+    "department": "33",
+    "region": "Nouvelle-Aquitaine",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 8.5
+    },
+    "dju": 984,
+    "population": 260236,
+    "coordinates": {
+      "lat": 44.8378,
+      "lng": -0.5792
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Bordeaux",
+      "subtitle": "Profitez du potentiel solaire girondin pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "strasbourg",
+    "slug": "strasbourg",
+    "name": "Strasbourg",
+    "description": "Strasbourg, ville française de l'Europe, siège du Parlement européen.",
+    "department": "67",
+    "region": "Grand Est",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 24.5,
+      "winter": 5.5
+    },
+    "dju": 1104,
+    "population": 279274,
+    "coordinates": {
+      "lat": 48.5734,
+      "lng": 7.7521
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Strasbourg",
+      "subtitle": "Bénéficiez du potentiel solaire alsacien pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "rennes",
+    "slug": "rennes",
+    "name": "Rennes",
+    "description": "Rennes, capitale de la Bretagne, entre histoire et modernité.",
+    "department": "35",
+    "region": "Bretagne",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 21.5,
+      "winter": 7.5
+    },
+    "dju": 1044,
+    "population": 214428,
+    "coordinates": {
+      "lat": 48.1173,
+      "lng": -1.6778
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Rennes",
+      "subtitle": "Profitez du potentiel solaire breton pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "reims",
+    "slug": "reims",
+    "name": "Reims",
+    "description": "Reims, ville des rois, célèbre pour sa cathédrale.",
+    "department": "51",
+    "region": "Grand Est",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 6.5
+    },
+    "dju": 1092,
+    "population": 184746,
+    "coordinates": {
+      "lat": 49.2584,
+      "lng": 4.0317
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Reims",
+      "subtitle": "Bénéficiez du potentiel solaire champenois pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "saint-etienne",
+    "slug": "saint-etienne",
+    "name": "Saint-Étienne",
+    "description": "Saint-Étienne, ville d'art et d'industrie, au cœur de la Loire.",
+    "department": "42",
+    "region": "Auvergne-Rhône-Alpes",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 5.5
+    },
+    "dju": 1068,
+    "population": 172214,
+    "coordinates": {
+      "lat": 45.4397,
+      "lng": 4.3872
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Saint-Étienne",
+      "subtitle": "Profitez du potentiel solaire loiragnol pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "le-mans",
+    "slug": "le-mans",
+    "name": "Le Mans",
+    "description": "Le Mans, ville du 24 heures, à la croisée des pays.",
+    "department": "72",
+    "region": "Pays de la Loire",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 6.5
+    },
+    "dju": 1056,
+    "population": 144665,
+    "coordinates": {
+      "lat": 47.9936,
+      "lng": 0.1917
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire au Mans",
+      "subtitle": "Bénéficiez du potentiel solaire sarthois pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "tours",
+    "slug": "tours",
+    "name": "Tours",
+    "description": "Tours, ville d'art et d'histoire, au cœur de la vallée de la Loire.",
+    "department": "37",
+    "region": " Centre-Val de Loire",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 7.5
+    },
+    "dju": 1032,
+    "population": 137464,
+    "coordinates": {
+      "lat": 47.3945,
+      "lng": 0.6848
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Tours",
+      "subtitle": "Profitez du potentiel solaire tourangeau pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "amiens",
+    "slug": "amiens",
+    "name": "Amiens",
+    "description": "Amiens, capitale du Ponthieu, célèbre pour sa cathédrale gothique.",
+    "department": "80",
+    "region": "Hauts-de-France",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 21.5,
+      "winter": 6.5
+    },
+    "dju": 1068,
+    "population": 119263,
+    "coordinates": {
+      "lat": 49.8945,
+      "lng": 2.2963
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Amiens",
+      "subtitle": "Bénéficiez du potentiel solaire amiénois pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "metz",
+    "slug": "metz",
+    "name": "Metz",
+    "description": "Metz, ville d'art et d'histoire, au carrefour des trois frontières.",
+    "department": "57",
+    "region": "Grand Est",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 6.5
+    },
+    "dju": 1068,
+    "population": 124638,
+    "coordinates": {
+      "lat": 49.1193,
+      "lng": 6.1750
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Metz",
+      "subtitle": "Profitez du potentiel solaire messin pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "besancon",
+    "slug": "besancon",
+    "name": "Besançon",
+    "description": "Besançon, ville d'art et d'histoire, capitale de l'horlogerie.",
+    "department": "25",
+    "region": "Bourgogne-Franche-Comté",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 23.5,
+      "winter": 5.5
+    },
+    "dju": 1104,
+    "population": 116250,
+    "coordinates": {
+      "lat": 47.2408,
+      "lng": 6.0292
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Besançon",
+      "subtitle": "Bénéficiez du potentiel solaire bisontin pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  },
+  {
+    "id": "valenciennes",
+    "slug": "valenciennes",
+    "name": "Valenciennes",
+    "description": "Valenciennes, ville d'art et d'histoire, au cœur de l'Arrageois.",
+    "department": "59",
+    "region": "Hauts-de-France",
+    "climateZone": "Cfb",
+    "averageTemp": {
+      "summer": 22.5,
+      "winter": 6.5
+    },
+    "dju": 1080,
+    "population": 41659,
+    "coordinates": {
+      "lat": 50.3662,
+      "lng": 3.5314
+    },
+    "services": [
+      "panneaux-solaires",
+      "thermopompe",
+      "isolation",
+      "chaudière-énergie"
+    ],
+    "leadForm": {
+      "title": "Énergie solaire à Valenciennes",
+      "subtitle": "Profitez du potentiel solaire valenciennois pour votre projet",
+      "cta": "Obtenir un devis gratuit"
+    }
+  }
+]
